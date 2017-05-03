@@ -10,3 +10,4 @@ export default {
   WorksForYou,
 }
 
+;(console as any).disableYellowBox = true;
