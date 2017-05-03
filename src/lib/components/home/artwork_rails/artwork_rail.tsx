@@ -261,7 +261,7 @@ const styles = StyleSheet.create<Styles>({
     color: "white",
     textAlign: "center",
     fontSize: 14,
-    fontFamily: "Avant Garde Gothic ITCW01Dm",
+    fontFamily: "GillSans-Light",
   },
 })
 

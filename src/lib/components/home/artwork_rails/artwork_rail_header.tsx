@@ -127,7 +127,7 @@ const styles = StyleSheet.create<Styles>({
     textAlign: "center",
   },
   viewAllButton: {
-    fontFamily: "Avant Garde Gothic ITCW01Dm",
+    fontFamily: "GillSans-Light",
     fontSize: isPad ? 14 : 12,
     color: colors["gray-medium"],
     textAlign: "center",
